@@ -1,0 +1,250 @@
+body{
+  font-family: sans-serif;
+}
+a{
+  text-decoration: none;
+}
+.button1{
+    border: 2px solid rgb(102,102,102);
+    color: rgb(60,60,60);
+    padding: 10px;
+    margin-left: 200px;
+}
+    .button2{
+    border: 2px solid rgb(248,192,19);
+    color: rgb(60,60,60);
+    padding: 10px;
+    margin-left: 30px;
+}
+.button3{
+    border: 2px solid rgb(221,72,63);
+    color: rgb(60,60,60);
+    padding: 10px;
+    margin-left: 30px;
+}
+.button4{
+    border: 2px solid rgb(86,197,255);
+    color: rgb(60,60,60);
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+.button1a{
+  background-color: rgb(102,102,102);
+  color: white;
+  padding: 15px;
+  margin-left: 200px;
+}
+.button2a{
+  background-color: rgb(248,192,19);
+  color: black;
+  padding: 15px;
+  margin-left: 30px;
+}
+.button3a{
+  background-color: rgb(242,98,90);
+  color: white;
+  padding: 15px;
+  margin-left: 30px;
+}
+.button4a{
+  background-color: rgb(185,204,210);
+  color: black;
+  padding: 15px;
+  margin-left: 30px;
+}
+.button5a{
+    background-color: rgb(86,197,255);
+    color: white;
+    padding: 15px;
+    margin-left: 30px;
+}
+.button1b{
+    background-color:rgb(70,70,70);
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 10px 10px 10px 0px;
+} 
+.button2b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 10px 10px 0px 10px;
+}
+.button3b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 10px 0px 10px 10px;
+}
+.button4b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 0px 10px 10px 10px;
+}
+.button5b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 10px 10px 0px 0px;
+}
+.button6b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 0px 0px 10px 10px;
+}
+.button7b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 10px 0px 0px 10px;
+}
+.button8b{
+  background-color: rgb(70,70,70);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 0px 10px 10px 0px;
+}
+.button1c{
+  background-color: rgb(173,50,52);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 5px;
+}
+.button2c{
+  background-color: rgb(48,103,185);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 10px;
+}
+.button3c{
+  background-color: rgb(58,148,61);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 15px;
+}
+.button4c{
+  background-color: rgb(166,138,38);
+  color: white;
+  padding: 10px;
+  margin-left: 500px;
+  border-radius: 20px;
+}
+.button1d{
+  background-color: transparent;
+  color: grey;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 100px;
+}
+.button2d{
+  background-color: rgb(71,150,221);
+  color: white;
+  border-radius: 2px;
+  padding: 8px;
+  margin: 8px;
+  font-size: 10px;
+}
+.button3d{
+  background-color: rgb(76,156,227);
+  color: white;
+  border-radius: 3px;
+  padding: 12px;
+  margin: 12px;
+  margin-left: 10px;
+  font-size: 12px;
+}
+.button4d{
+  background-color: rgb(75,155,226);
+  color: white;
+  padding: 15px;
+  margin: 15px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.button5d{
+  background-color: rgb(77,158,227);
+  color: white;
+  padding: 8px;
+  margin: 8px;
+  margin-left: 10px;
+  font-size: 10px;
+  border-radius: 12px;
+}
+.button6d{
+  background-color: rgb(75,155,226);
+  color: white;
+  padding: 12px;
+  margin: 12px;
+  margin-left: 10px;
+  font-size: 12px;
+  border-radius: 20px;
+}
+.button7d{
+  background-color: rgb(77,158,226);
+  color: white;
+  padding: 15px;
+  margin: 15px;
+  margin-left: 10px;
+  border-radius: 30px;
+} 
+body{
+    background-color: rgb(245,245,245);
+}
+.paralel1{
+    margin-left: 175px;
+}
+.paralel1,ul{
+    color: rgb(176,167,164)
+}
+.paralel1,h3,ul{
+    margin-left: 150px;
+}
+li{
+    padding-left: 20px;
+}
+blockquote{
+  padding-left: 20px;
+  border-left: 2px solid grey;
+  color: grey;
+}
+.bg-img{
+  background-image: url(../img/image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-top: 300px;
+}
+.demo{
+  background-color: rgb(58,174,231);
+  color: white;
+  padding: 10px 20px;
+  margin: 20px;
+}
+.purchase{
+background-color: rgb(129,198,132);
+color: white; 
+padding: 10px 20px;
+
+}
+.multi{
+  font-size: 30px;
+  color: white;
+}
+.multi1{
+  font-size: 70px; 
+  color: white;
+}
